@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "LED_PCB_Large_Custom") (type "KiCad") (uri "${KIPRJMOD}/LED_PCB_Large_Custom.pretty") (options "") (descr ""))
+	(lib (name "MAX20078ATE_V_T") (type "KiCad") (uri "C:/Users/Owner/Downloads/MAX20078ATE_V_T") (options "") (descr ""))
+	(lib (name "BUK9Y107_80EX") (type "KiCad") (uri "C:/Users/Owner/Downloads/LIB_BUK9Y107-80EX/BUK9Y107-80EX/KiCad") (options "") (descr ""))
+)
