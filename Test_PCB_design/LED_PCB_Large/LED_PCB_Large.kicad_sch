@@ -11379,7 +11379,7 @@
 		)
 		(uuid "ffacd19e-504d-43ce-8df3-ca0136f4d6d4")
 	)
-	(label "LED+"
+	(label "LED6+"
 		(at 471.17 158.75 0)
 		(effects
 			(font
@@ -11449,7 +11449,7 @@
 		)
 		(uuid "3070270a-ba42-47b7-a0ce-2ef683ff422e")
 	)
-	(label "LED+"
+	(label "LED5+"
 		(at 472.44 63.5 0)
 		(effects
 			(font
@@ -11489,7 +11489,7 @@
 		)
 		(uuid "3b8c2894-ce92-4721-85a2-1d2b1f911cd3")
 	)
-	(label "LED+"
+	(label "LED1+"
 		(at 129.54 62.23 0)
 		(effects
 			(font
@@ -11519,7 +11519,7 @@
 		)
 		(uuid "60ae6829-49ff-4edf-a2c6-e1f730dff8fe")
 	)
-	(label "LED+"
+	(label "LED4+"
 		(at 294.64 154.94 0)
 		(effects
 			(font
@@ -11549,7 +11549,7 @@
 		)
 		(uuid "79e393c7-acd8-4a20-bafc-ca3e7750bb9e")
 	)
-	(label "LED+"
+	(label "LED2+"
 		(at 128.27 153.67 0)
 		(effects
 			(font
@@ -11649,7 +11649,7 @@
 		)
 		(uuid "cc86f8cc-70a3-40ff-af33-e75849a82d43")
 	)
-	(label "LED+"
+	(label "LED3+"
 		(at 297.18 62.23 0)
 		(effects
 			(font
