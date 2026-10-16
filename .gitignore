@@ -42,3 +42,6 @@ sym-lib-table
 
 # Local project settings
 *.kicad_prl
+
+# Ignore KiCad history folders
+.history/

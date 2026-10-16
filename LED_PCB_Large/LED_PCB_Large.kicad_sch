@@ -148,10 +148,10 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin no_connect line
 					(at -8.89 -12.7 0)
 					(length 2.54)
-					(name "SPARE1"
+					(name "Free1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -166,10 +166,10 @@
 						)
 					)
 				)
-				(pin input line
+				(pin no_connect line
 					(at -8.89 -15.24 0)
 					(length 2.54)
-					(name "SPARE2"
+					(name "Free2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6010,14 +6010,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ffeec3d0-1646-44e2-8a6d-aa613003f4e7")
-	)
-	(no_connect
-		(at 222.25 234.95)
-		(uuid "92e91980-431a-4db2-bafe-9b8c601887d5")
-	)
-	(no_connect
-		(at 222.25 237.49)
-		(uuid "dad115e5-3ec0-4b8d-b75d-d4bdb50c1368")
 	)
 	(wire
 		(pts
@@ -15288,7 +15280,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "453K 1%"
+		(property "Value" "324K 1%"
 			(at 312.42 63.4999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16439,7 +16431,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "453K 1%"
+		(property "Value" "324K 1%"
 			(at 144.78 63.4999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22268,7 +22260,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "453K 1%"
+		(property "Value" "324K 1%"
 			(at 143.51 154.9399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23823,7 +23815,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c2f23c5f-7e7d-436b-8daf-21832119ecb2")
 		(property "Reference" "J1"
 			(at 234.95 231.1399 0)
@@ -23837,7 +23828,7 @@
 			)
 		)
 		(property "Value" "AS150UPB 2+4"
-			(at 231.14 222.25 0)
+			(at 224.028 218.186 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24756,7 +24747,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "453K 1%"
+		(property "Value" "324K 1%"
 			(at 487.68 64.7699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26078,7 +26069,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "453K 1%"
+		(property "Value" "324K 1%"
 			(at 309.88 156.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27806,7 +27797,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "453K 1%"
+		(property "Value" "324K 1%"
 			(at 486.41 160.0199 0)
 			(show_name no)
 			(do_not_autoplace no)
