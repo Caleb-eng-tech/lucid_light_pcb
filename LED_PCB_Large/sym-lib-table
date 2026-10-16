@@ -1,0 +1,7 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "MAX20078ATE_V_T") (type "KiCad") (uri "C:/Users/Owner/Downloads/MAX20078ATE_V_T/MAX20078ATE_V_T.kicad_sym") (options "") (descr ""))
+	(lib (name "BUK9Y107-80EX") (type "KiCad") (uri "C:/Users/Owner/Downloads/LIB_BUK9Y107-80EX/BUK9Y107-80EX/KiCad/BUK9Y107-80EX.kicad_sym") (options "") (descr ""))
+	(lib (name "AS150U_Custom") (type "KiCad") (uri "${KIPRJMOD}/AS150U_Custom.kicad_sym") (options "") (descr ""))
+	(lib (name "2026-10-05_16-19-13") (type "KiCad") (uri "C:/Users/Owner/OneDrive/Documents/Test_PCB_design/LED_PCB_Large/ul_TMP235A2DBZR/KiCADv6/2026-10-05_16-19-13.kicad_sym") (options "") (descr ""))
+)
