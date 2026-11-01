@@ -546,6 +546,10 @@ DocumentUniqueId=QXXMGYAU
 DocumentPath=Project Outputs for LUCID_LIGHT_PCB\Design Rule Check - LUCID_LIGHT_PCB_Outer.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for LUCID_LIGHT_PCB_Outer\Design Rule Check - LUCID_LIGHT_PCB_Outer.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
