@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ADVCMLVJ
 
 [Document6]
-DocumentPath=LED_Central.PcbDoc
+DocumentPath=WIRE_Solder_8AWG.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -149,7 +149,45 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HKARQFWE
+DocumentUniqueId=RTRXNHRQ
+
+[Document7]
+DocumentPath=WIRE_Solder_8AWG.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WHHFNVBA
+
+[Document8]
+DocumentPath=LUICD_LIGHT_PCB_Central.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YEIHRHQJ
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for LUICD_LIGHT_PCB_Central\Design Rule Check - LUICD_LIGHT_PCB_Central.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
